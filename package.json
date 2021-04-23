@@ -1,0 +1,16 @@
+{
+  "name": "linq4typescript",
+  "version": "1.1.9",
+  "description": "Linq-style operations for typescript base arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "linq"
+  ],
+  "author": "Daniel James Thorne",
+  "license": "ISC",
+  "types": "index.d.ts"
+}
